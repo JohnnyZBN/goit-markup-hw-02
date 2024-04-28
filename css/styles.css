@@ -107,7 +107,7 @@ cursor:pointer;
 background-color: #F4F4FD;
 }
 .main-header{text-align:center;}
- .portfolio-listheader, .aboutus-listheader .ourteam-listheader, .logo{color: #2e2f42;}
+ .section-header, .portfolio-listheader, .aboutus-listheader .ourteam-listheader, .logo{color: #2e2f42;}
 
 .portfolio-paragraph .aboutus-paragraph, .ourteam-paragraph{font-size: 16px;
 line-height: 1.5;
