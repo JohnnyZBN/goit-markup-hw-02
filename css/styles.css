@@ -3,7 +3,7 @@ body {
     font-weight: 400;
     font-style: normal;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color:#434455;
     background-color: #FFFFFF;
 }
@@ -15,12 +15,12 @@ h1 {font-weight: 700;
 h2 {
     font-weight: 700;      
     font-size: 36px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 h3 {
     font-weight: 500;
     font-size: 20px;
-    letter-spacing: 2%;    
+    letter-spacing: 0.02em;    
 }
 ul {list-style-type: none;}
 .logo{
@@ -109,3 +109,8 @@ cursor:pointer;
 background-color: #F4F4FD;
 }
 .main-header{text-align:center;}
+.aboutus-header{color: #2e2f42;}
+.aboutus-paragraph{font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02;
+color: #434455; }
