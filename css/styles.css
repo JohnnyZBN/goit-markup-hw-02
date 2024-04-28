@@ -4,7 +4,8 @@ body {
     font-style: normal;
     line-height: 24px;
     letter-spacing: 2%;
-    color:#2E2F42;
+    color:#434455;
+    background-color: #FFFFFF;
 }
 h1 {font-weight: 700;
     font-size: 56px;
@@ -23,17 +24,18 @@ h3 {
 }
 ul {list-style-type: none;}
 .logo{
-    color: #4D5AE5;
+    color: #2E2F42;
   }
-  .logo-link{color:#2E2F42;
+  .logo-link{color:#4d5ae5;
     text-decoration: none;
     font-family: "Raleway", sans-serif;
       font-optical-sizing: auto;
       font-weight: 700;
       font-style: normal;
-      line-height: 21px;
-      letter-spacing: 3%;
+      line-height: 1.17;
+      letter-spacing: 0.03em;
       font-size: 18px;
+      text-transform: uppercase;
   }
 /* .roboto-regular {
     font-family: "Roboto", sans-serif;
@@ -61,10 +63,10 @@ ul {list-style-type: none;}
   }
    */
    .navi-cards{font-family: "roboto", sans-serif;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 4%;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0.02em;
     color: #2E2F42;
   text-decoration: none;}
 
