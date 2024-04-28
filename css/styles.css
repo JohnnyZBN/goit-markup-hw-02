@@ -73,7 +73,7 @@ ul {list-style-type: none;}
     color: #2E2F42;
   text-decoration: none;}
 
-    .navi-cards:hover .navi-cards:focus {color: #404bbf;}
+    .navi-cards:hover, .navi-cards:focus {color: #404bbf;}
 
 .navi-cards:active{color: #404bbf;
     text-decoration: underline;}
