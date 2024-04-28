@@ -1,0 +1,103 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color:#2E2F42;
+}
+h1 {font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 60px
+}
+h2 {
+    font-weight: 700;      
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 2%;    
+}
+ul {list-style-type: none;}
+.logo{
+    color: #4D5AE5;
+  }
+  .logo-link{color:#2E2F42;
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 700;
+      font-style: normal;
+      line-height: 21px;
+      letter-spacing: 3%;
+      font-size: 18px;
+  }
+/* .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  } */
+  
+  /* .raleway-<uniquifier> {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+   */
+   .navi-cards{font-family: "roboto", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+    color: #2E2F42;
+  text-decoration: none;}
+
+    .navi-cards:hover{color: #404BBF;}
+
+    .navi-cards:active{color: #404BBF;
+    text-decoration: underline;}
+.contacts{
+  color: #434455;
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 4%;
+}
+.contacts:hover{
+  color:#404BBF
+}
+  
+.section-button {
+  background-color: #2E2F42;
+color: #ffffff;
+} 
+.button-main {color: #ffffff;
+background-color: #4D5AE5;
+font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+font-size: 16px;
+Line-Height: 24px; 
+Letter-Spacing: 4%;
+}
+.button-main:hover {background-color: #404BBF;}
+
+.section-ourteam {
+background-color: #F4F4FD;
+}
