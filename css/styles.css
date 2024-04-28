@@ -28,7 +28,6 @@ ul {list-style-type: none;}
   .logo-link{color:#4d5ae5;
     text-decoration: none;
     font-family: "Raleway", sans-serif;
-      font-optical-sizing: auto;
       font-weight: 700;
       font-style: normal;
       line-height: 1.17;
@@ -67,7 +66,7 @@ ul {list-style-type: none;}
    .navi-cards{font-family: "roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
   text-decoration: none;}
@@ -112,7 +111,7 @@ background-color: #F4F4FD;
 
 .portfolio-paragraph .aboutus-paragraph, .ourteam-paragraph{font-size: 16px;
 line-height: 1.5;
-letter-spacing: 0.02;
+letter-spacing: 0.02em;
 color: #434455; }
 .ourteam-header, .portfolio-header{
   line-height: 1.11;
