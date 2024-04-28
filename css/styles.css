@@ -62,6 +62,9 @@ ul {list-style-type: none;}
     font-style: normal;
   }
    */
+   .address {
+    font-style:normal
+   }
    .navi-cards{font-family: "roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -70,19 +73,19 @@ ul {list-style-type: none;}
     color: #2E2F42;
   text-decoration: none;}
 
-    .navi-cards:hover{color: #404BBF;}
+    .navi-cards:hover{color: #404bbf;}
 
-    .navi-cards:active{color: #404BBF;
+    .navi-cards:active{color: #404bbf;
     text-decoration: underline;}
 .contacts{
   color: #434455;
   text-decoration: none;
-  font-size: 12px;
-  line-height: 16px;
-  letter-spacing: 4%;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .contacts:hover{
-  color:#404BBF
+  color:#404bbf
 }
   
 .section-button {
