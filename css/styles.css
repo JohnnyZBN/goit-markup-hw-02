@@ -108,17 +108,19 @@ cursor:pointer;
 background-color: #F4F4FD;
 }
 .main-header{text-align:center;}
-.section-header, .ourteam-listheader, .logo{color: #2e2f42;}
+ .portfolio-listheader, .aboutus-listheader .ourteam-listheader, .logo{color: #2e2f42;}
 
-.aboutus-paragraph, .ourteam-paragraph{font-size: 16px;
+.portfolio-paragraph .aboutus-paragraph, .ourteam-paragraph{font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02;
 color: #434455; }
-.ourteam-section {
+.ourteam-header, .portfolio-header{
   line-height: 1.11;
   text-align: center;
   text-transform:capitalize;
+  color: #2e2f42;
 }
 .ourteam-list{background-color: #ffffff;
  }
- 
+.footer {background-color: #2e2f42;}
+.footer-paragraph,.logofooter {color: #F4F4FD}
